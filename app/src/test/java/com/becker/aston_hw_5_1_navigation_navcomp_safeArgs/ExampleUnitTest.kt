@@ -1,8 +1,7 @@
-package com.becker.aston_hw_5_2_navigation_navcomp_safeargs
+package com.becker.aston_hw_5_1_navigation_navcomp_safeArgs
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

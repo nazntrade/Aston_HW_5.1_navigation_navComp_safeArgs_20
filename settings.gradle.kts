@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Aston_HW_5.2_navigation_navComp_safeArgs"
+rootProject.name = "Aston_HW_5.1_navigation_navComp_safeArgs"
 include(":app")
  
